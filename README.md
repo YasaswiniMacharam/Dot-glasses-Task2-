@@ -1,8 +1,5 @@
-Here is a full **README.md** file for your **Stylish Reusable Button** React project:
 
----
 
-```markdown
 # 🌟 Stylish Reusable Button Component
 
 A React-based project showcasing a set of stylish and reusable button components with unique themes, vibrant colors, and clean interaction states — all implemented **without TailwindCSS**.
